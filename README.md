@@ -1,8 +1,8 @@
 # Leonida Platinum — GTA VI Trophy Guide & Tracker
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-ff2e88)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![GTA VI](https://img.shields.io/badge/GTA%20VI-55%20trophies-2ee6d6)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![offline](https://img.shields.io/badge/offline-static%20app-ffc94d)](https://make.fun/bounty/gta6-trophy-guide-01)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/bnbf/gta6-trophy-guide-01-bot-v4/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/bnbf/gta6-trophy-guide-01-bot-v4/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 An offline static web app that tracks all **55 official Grand Theft Auto VI trophies** on PlayStation 5 — every trophy with a cited guide, a 6-stage platinum roadmap, a missable watch list and a spoiler mode.
 
